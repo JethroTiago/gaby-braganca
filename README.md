@@ -18,6 +18,10 @@ Used Layouts with responsive techniques and Flex-Box knowledge.
 
 <br>
 
+### Deploy
+
+http://gaby-braganca.vercel.app/
+
 ## How it works
 
 It's just a page that displays some information about this digital influencer.
